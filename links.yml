@@ -154,27 +154,35 @@ categories:
         url: https://twitter.com/commitstrip
         description: CommitStrip 漫画。强烈推荐的程序员漫画。The blog relating the daily life of web agency developers.
         tags:  
-  - category: 程序员博客
+  - category: 科技趋势
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
+      - title: MIT Tech Review
+        logo: https://pbs.twimg.com/profile_images/1072880528712495106/ahuQUlOb_400x400.jpg
+        url: https://twitter.com/techreview
+        description: 科技时评，最前沿的科技动态，深入报道揭示并解释了现在正在发生的事情，以帮助您了解接下来会发生什么。
+      - title: Wired
+        logo: https://pbs.twimg.com/profile_images/1228050699348561920/YvWAQD2L_400x400.jpg
+        url: https://twitter.com/wired
+        description: 科技评论杂志
+      - title: Nautilus
+        logo: https://pbs.twimg.com/profile_images/1408197357645279242/UxH147yQ_400x400.jpg
+        url: https://twitter.com/NautilusMag
+        description: 当今最聪明的思想家在屡获殊荣的新闻报道中揭示了尖端科学。
+      - title: National Geography
+        logo: https://pbs.twimg.com/profile_images/1592560747707600897/6_8AjTmK_400x400.jpg
+        url: https://twitter.com/NatGeo
+        description: 国家地理。Taking our understanding and awareness of the world further for more than 130 years.
+      - title: Science News
+        logo: https://pbs.twimg.com/profile_images/1210648820541018113/j4qqEa6F_400x400.png
+        url: https://twitter.com/ScienceNews
+        description: 科技新闻。Covering the latest news in all fields of science. Tweets by @ThatMikeDenison and @wwrfd.
+      - title: Scientific American
+        logo: https://pbs.twimg.com/profile_images/1197574569680392192/ZTfk5gZ3_400x400.png
+        url: https://twitter.com/sciam
+        description: 科学美国人。Awesome discoveries. Expert insights. Science that shapes the world.
 
+        
   - category: 设计师博客
     icon: linecons-doc
     links:
