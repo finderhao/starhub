@@ -183,46 +183,101 @@ categories:
         description: 科学美国人。Awesome discoveries. Expert insights. Science that shapes the world.
 
         
-  - category: 设计师博客
+  - category: 大厂动态
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
+      - title: DeepMind
+        logo: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
+        url: https://twitter.com/DeepMindAI
+        description: 谷歌 DeepMind 官方帐号。Solving intelligence to make the world a better place.
+      - title: Tensorflow
+        logo: https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png
+        url: https://twitter.com/tensorflow
+        description: 谷歌机器学习软件 Tensorflow 官方帐号。TensorFlow is an end-to-end open source platform for machine learning.
+      - title: Mozilla
+        logo: https://pbs.twimg.com/profile_images/997174147066150912/IKKk8dpb_400x400.jpg
+        url: https://twitter.com/mozilla
+        description: 火狐浏览器母公司谋智。Mozilla is a non-profit organization that works to ensure the internet is open and accessible to all.
+      - title: NVIDIA HPC Developer
+        logo: https://pbs.twimg.com/profile_images/878017729013350400/n4DtbeE4_400x400.jpg
+        url: https://twitter.com/NVIDIAHPCDev
+        description: 英伟达高性能计算。NVIDIA HPC Developer is the online community for developers using NVIDIA technology for high performance computing.
 
-  - category: 个人博客
+
+  - category: 媒体资讯
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
+      - title: LWN.net
+        logo: https://pbs.twimg.com/profile_images/378800000309403197/48555e82068f455757847909225a3208_400x400.png
+        url: https://twitter.com/LWNnet
+        description: Linux 安全杂志。News from the source.
+      - title: RedHat Community
+        logo: https://pbs.twimg.com/profile_images/1123561961591934976/swyHPiAo_400x400.png
+        url: https://twitter.com/redhatopen
+        description: 红帽社区。The official Twitter account for the Red Hat open source community.
+      - title: CronWeekly
+        logo: https://pbs.twimg.com/profile_images/668707749518319616/Sb76JCjh_400x400.png
+        url: https://twitter.com/CronWeekly
+        description: CronWeekly 系统管理员周报。A weekly newsletter for Linux and Open Source sysadmins.
+      - title: Kaggle
+        logo: https://pbs.twimg.com/profile_images/1573129499343978498/03a7wgfE_400x400.jpg
+        url: https://twitter.com/kaggle
+        description: Kaggle，世界最大的数据科学家学习平台与交流社区。The world’s largest community of data scientists. Join us to compete, collaborate, learn, and share your work.
+      - title: O’Reilly AI
+        logo: https://pbs.twimg.com/profile_images/1158781492236976128/SvdK25kL_400x400.jpg
+        url: https://twitter.com/OReillyAI
+        description: O’Reilly AI 新闻。News and commentary from O’Reilly Media about artificial intelligence and machine learning.
+      - title: NVidia AI
+        logo: https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg
+        url: https://twitter.com/NvidiaAI
+        description: NVidia AI 新闻。NVIDIA AI is the world’s leading artificial intelligence computing company.
+      - title: C++ LibHunt
+        logo: https://pbs.twimg.com/profile_images/778516955263275008/bdXg2SXK_400x400.jpg
+        url: https://twitter.com/CppLibHunt
+        description: C++ 周报和优秀库推荐。Weekly newsletter and awesome libraries for C++.
+      - title: OpenCL org
+        logo: https://pbs.twimg.com/profile_images/1254694426368192519/5GYidsGH_400x400.png
+        url: https://twitter.com/OpenCLorg
+        description: openCL GPGPU 计算新闻。OpenCL News and Information.
+      - title: Secure The News
+        logo: https://pbs.twimg.com/profile_images/827614210695667712/PMRzpEUQ_400x400.jpg
+        url: https://twitter.com/SecureTheNews
+        description: Secure The News。Tracking and promoting the adoption of HTTPS by news organizations around the world. A project of @FreedomofPress.
+      - title: The Economist
+        logo: https://pbs.twimg.com/profile_images/879695154000613376/QziNW0l8_400x400.jpg
+        url: https://twitter.com/EconCulture
+        description: 著名的经济学人杂志。The arts, books and culture website of The Economist. Follow for articles about books, art, film, music and more.
+      - title: Wikipedia
+        logo: https://pbs.twimg.com/profile_images/1018552942670966784/0Zflj6Y__400x400.jpg
+        url: https://twitter.com/wikipedia
+        description: 维基百科。Official Twitter account for the sum of all knowledge, Wikipedia. More on our social media: https://t.co/Uju7VyOsTe
+      - title: WikiTribune
+        logo: https://pbs.twimg.com/profile_images/1273227695854403584/euklCJ5K_400x400.jpg
+        url: https://twitter.com/WikiTribune
+        description: 维基百科创始人创立的新闻组织，旨在“将真实的新闻还给新闻业。WikiTribune is a news platform that brings journalists and a community of volunteers together. We want to make sure that you read fact-based articles that have a real impact in both local and global events."
+      - title: Forbes
+        logo: https://pbs.twimg.com/profile_images/1577646609923543041/NcCeduIc_400x400.jpg
+        url: https://twitter.com/Forbes
+        description: 福布斯杂志。Official Twitter account of Forbes, the world’s leading voice for entrepreneurial success and free enterprise.
+      - title: Bloomberg
+        logo: https://pbs.twimg.com/profile_images/1016326195221352450/KCcdUN0v_400x400.jpg
+        url: https://twitter.com/bloomberg
+        description: Bloomberg 新闻。The first word in business news.
+      - title: WSJ
+        logo: https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_400x400.jpg
+        url: https://twitter.com/WSJ
+        description: 华尔街日报。Breaking news and features from the WSJ.
+      - title: NYTimes
+        logo: https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_400x400.png
+        url: https://twitter.com/nytimes
+        description: 纽约时报。News tips? Share them here: https://t.co/ghL9OoYKMM
+      - title: Washington Post
+        logo: https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_400x400.jpg
+        url: https://twitter.com/washingtonpost
+        description: 华盛顿邮报。Breaking news, analysis, and opinion. Founded in 1877. Our staff on Twitter: https://t.co/VV0UBAMHg8
 
+
+  
   - category: 社区
     icon: linecons-doc
     links:
