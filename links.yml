@@ -45,10 +45,10 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
-      - title: DTO
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
+      - title: levelsio
+        logo: https://pbs.twimg.com/profile_images/1589756412078555136/YlXMBzhp_400x400.jpg
+        url: https://twitter.com/levelsio
+        description: 独立开发者翘楚，依赖研发的应用月收入超过$20w.账号分享日常生活和独立开发经验。
         tags: 程序员,社区
       - title: BestXTools 社区
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
