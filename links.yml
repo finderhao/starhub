@@ -85,17 +85,75 @@ categories:
         url: https://twitter.com/elonmusk
         description: 特斯拉，SpaceX，OpenAI 和 Neuralink 创始人马斯克。Technoking of Tesla, Imperator of Mars
         tags: 
-      - title: Pipecraft 社区
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: 纵横网址导航
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
-        url: https://zh.pipecraft.net/
-        description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
-        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
-
+      - title: Bill Gates
+        logo: https://pbs.twimg.com/profile_images/1674815862879178752/nTGMV1Eo_400x400.jpg
+        url: https://twitter.com/BillGates
+        description: 目前正在专注慈善和社会福利的比尔盖茨。Sharing things I'm learning through my foundation work and other interests.
+        tags: 
+      - title: Eric S. Raymond
+        logo: https://pbs.twimg.com/profile_images/925069606/ecsllogo2_400x400.png
+        url: https://twitter.com/esrtweet
+        description: 老牌黑客， 自由软件倡议者，《Unix 编程哲学》作者 ESR。Hacker, writer, martial artist, and advocate of open-source software.
+        tags: 
+      - title: Brendan Gregg
+        logo: https://pbs.twimg.com/profile_images/1503350895068999684/Aihfrwxq_400x400.jpg
+        url: https://twitter.com/brendangregg
+        description: Unix 系统性能分析大牛 Brendan Gregg。I work on cloud computing performance at Netflix. Author of Systems Performance, BPF Performance Tools, and more."
+        tags:  
+      - title: Andrew Ng
+        logo: https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg
+        url: https://twitter.com/andrewYNg
+        description: Coursera 创始人，AI 大牛吴恩达。Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #deeplearning #AI #machinelearning #MOOCs"
+        tags:  
+      - title: Addy Osmani
+        logo: https://pbs.twimg.com/profile_images/1658922603367788544/h0aqRgmr_400x400.jpg
+        url: https://twitter.com/addyosmani
+        description: Working on Google Chrome。Engineering Manager at Google working on Chrome & Web Platform. Creator of tools for improving web performance. JavaScript, Images, Automation."
+        tags:       
+      - title: Brendan Eich
+        logo: https://pbs.twimg.com/profile_images/603270050556956672/T0mfRsil_400x400.png
+        url: https://twitter.com/BrendanEich
+        description: Brendan Eich，JavaScript 之父。Creator of JavaScript, co-founder of Mozilla & Brave, father of four, husband of one.
+        tags:       
+      - title: Guido Van Rossum
+        logo: https://pbs.twimg.com/profile_images/424495004/GuidoAvatar_400x400.jpg
+        url: https://twitter.com/gvanrossum
+        description: Python 之父 Guido 大师。Author of the Python programming language.
+        tags:       
+      - title: Edward Snowden
+        logo: https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_400x400.jpg
+        url: https://twitter.com/Snowden
+        description: 斯诺登。I used to work for the government. Now I work for the public. President at @FreedomofPress.
+      - title: Chelsea E. Manning
+        logo: https://pbs.twimg.com/profile_images/1539010939395231745/t5VRCdiB_400x400.jpg
+        url: https://twitter.com/xychelsea
+        description: “Former Intelligence Analyst, former prisoner, now a Network Security Expert.” 曾经因举报伊战内幕轰动一时并遭受牢狱之灾的变性人，切尔西·曼宁。
+        tags:   
+      - title: Pavel Durov
+        logo: https://pbs.twimg.com/profile_images/658376777258151936/-Jz8l4Rr_400x400.jpg
+        url: https://twitter.com/durov
+        description: Telegram 的创始人。Founder of Telegram and VK.
+        tags:   
+      - title: Jimmy Wales
+        logo: https://pbs.twimg.com/profile_images/15944612/small_sepia_jimbo_400x400.jpg
+        url: https://twitter.com/jimmy_wales
+        description: 维基百科创始人。Founder of @Wikipedia, founder of @WikiTribune.
+        tags:   
+      - title: XKCD
+        logo: https://pbs.twimg.com/profile_images/413359024617185280/pS8lVAWA_400x400.png
+        url: https://twitter.com/xkcdComic
+        description: XKCD 漫画。xkcd updates every Monday, Wednesday, and Friday.
+        tags:   
+      - title: Programming Wisdom
+        logo: https://pbs.twimg.com/profile_images/705003311083229184/qTBCIxpk_400x400.jpg
+        url: https://twitter.com/CodeWisdom
+        description: 诙谐的程序员大师语录。Programming quotes and jokes.
+        tags:  
+      - title: Commit Strip
+        logo: https://pbs.twimg.com/profile_images/799176331623800832/ggd6_JbJ_400x400.jpg
+        url: https://twitter.com/commitstrip
+        description: CommitStrip 漫画。强烈推荐的程序员漫画。The blog relating the daily life of web agency developers.
+        tags:  
   - category: 程序员博客
     icon: linecons-doc
     links:
