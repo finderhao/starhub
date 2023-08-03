@@ -35,7 +35,7 @@ friendship_links_url: https://finderhao.github.io/starhub/links/
 navigation_urls:
   - title: Twitter
     url: page1/
-  - title: Thread
+  - title: Threads
     url: page2/
 
 ################
@@ -189,18 +189,22 @@ categories:
         logo: https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png
         url: https://twitter.com/DeepMindAI
         description: 谷歌 DeepMind 官方帐号。Solving intelligence to make the world a better place.
+        tags:  
       - title: Tensorflow
         logo: https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png
         url: https://twitter.com/tensorflow
         description: 谷歌机器学习软件 Tensorflow 官方帐号。TensorFlow is an end-to-end open source platform for machine learning.
+        tags:  
       - title: Mozilla
         logo: https://pbs.twimg.com/profile_images/997174147066150912/IKKk8dpb_400x400.jpg
         url: https://twitter.com/mozilla
         description: 火狐浏览器母公司谋智。Mozilla is a non-profit organization that works to ensure the internet is open and accessible to all.
+        tags:  
       - title: NVIDIA HPC Developer
         logo: https://pbs.twimg.com/profile_images/878017729013350400/n4DtbeE4_400x400.jpg
         url: https://twitter.com/NVIDIAHPCDev
         description: 英伟达高性能计算。NVIDIA HPC Developer is the online community for developers using NVIDIA technology for high performance computing.
+        tags:  
 
   - category: 媒体资讯
     icon: linecons-doc
