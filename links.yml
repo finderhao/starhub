@@ -272,11 +272,11 @@ categories:
       - title: NYTimes
         logo: https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_400x400.png
         url: https://twitter.com/nytimes
-        description: 纽约时报。News tips? Share them here: https://t.co/ghL9OoYKMM
+        description: 纽约时报。News tips? 
       - title: Washington Post
         logo: https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_400x400.jpg
         url: https://twitter.com/washingtonpost
-        description: 华盛顿邮报。Breaking news, analysis, and opinion. Founded in 1877. Our staff on Twitter: https://t.co/VV0UBAMHg8
+        description: 华盛顿邮报。Breaking news, analysis, and opinion. Founded in 1877. 
 
   - category: 社区
     icon: linecons-doc
